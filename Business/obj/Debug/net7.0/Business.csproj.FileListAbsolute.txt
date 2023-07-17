@@ -1,0 +1,17 @@
+/Users/mikail/back-end projects/MyConsoleProject/Business/bin/Debug/net7.0/Business.deps.json
+/Users/mikail/back-end projects/MyConsoleProject/Business/bin/Debug/net7.0/Business.dll
+/Users/mikail/back-end projects/MyConsoleProject/Business/bin/Debug/net7.0/Business.pdb
+/Users/mikail/back-end projects/MyConsoleProject/Business/bin/Debug/net7.0/DataAccess.dll
+/Users/mikail/back-end projects/MyConsoleProject/Business/bin/Debug/net7.0/Entities.dll
+/Users/mikail/back-end projects/MyConsoleProject/Business/bin/Debug/net7.0/Entities.pdb
+/Users/mikail/back-end projects/MyConsoleProject/Business/bin/Debug/net7.0/DataAccess.pdb
+/Users/mikail/back-end projects/MyConsoleProject/Business/obj/Debug/net7.0/Business.csproj.AssemblyReference.cache
+/Users/mikail/back-end projects/MyConsoleProject/Business/obj/Debug/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikail/back-end projects/MyConsoleProject/Business/obj/Debug/net7.0/Business.AssemblyInfoInputs.cache
+/Users/mikail/back-end projects/MyConsoleProject/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
+/Users/mikail/back-end projects/MyConsoleProject/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
+/Users/mikail/back-end projects/MyConsoleProject/Business/obj/Debug/net7.0/Business.csproj.CopyComplete
+/Users/mikail/back-end projects/MyConsoleProject/Business/obj/Debug/net7.0/Business.dll
+/Users/mikail/back-end projects/MyConsoleProject/Business/obj/Debug/net7.0/refint/Business.dll
+/Users/mikail/back-end projects/MyConsoleProject/Business/obj/Debug/net7.0/Business.pdb
+/Users/mikail/back-end projects/MyConsoleProject/Business/obj/Debug/net7.0/ref/Business.dll

@@ -1,0 +1,30 @@
+/Users/mikail/Projects/MyConsoleProject/MyConsoleProject/bin/Debug/net7.0/MyConsoleProject
+/Users/mikail/Projects/MyConsoleProject/MyConsoleProject/bin/Debug/net7.0/MyConsoleProject.deps.json
+/Users/mikail/Projects/MyConsoleProject/MyConsoleProject/bin/Debug/net7.0/MyConsoleProject.runtimeconfig.json
+/Users/mikail/Projects/MyConsoleProject/MyConsoleProject/bin/Debug/net7.0/MyConsoleProject.dll
+/Users/mikail/Projects/MyConsoleProject/MyConsoleProject/bin/Debug/net7.0/MyConsoleProject.pdb
+/Users/mikail/Projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/MyConsoleProject.csproj.AssemblyReference.cache
+/Users/mikail/Projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/MyConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikail/Projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/MyConsoleProject.AssemblyInfoInputs.cache
+/Users/mikail/Projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/MyConsoleProject.AssemblyInfo.cs
+/Users/mikail/Projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/MyConsoleProject.csproj.CoreCompileInputs.cache
+/Users/mikail/Projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/MyConsoleProject.dll
+/Users/mikail/Projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/refint/MyConsoleProject.dll
+/Users/mikail/Projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/MyConsoleProject.pdb
+/Users/mikail/Projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/MyConsoleProject.genruntimeconfig.cache
+/Users/mikail/Projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/ref/MyConsoleProject.dll
+/Users/mikail/back-end projects/MyConsoleProject/MyConsoleProject/bin/Debug/net7.0/MyConsoleProject
+/Users/mikail/back-end projects/MyConsoleProject/MyConsoleProject/bin/Debug/net7.0/MyConsoleProject.deps.json
+/Users/mikail/back-end projects/MyConsoleProject/MyConsoleProject/bin/Debug/net7.0/MyConsoleProject.runtimeconfig.json
+/Users/mikail/back-end projects/MyConsoleProject/MyConsoleProject/bin/Debug/net7.0/MyConsoleProject.dll
+/Users/mikail/back-end projects/MyConsoleProject/MyConsoleProject/bin/Debug/net7.0/MyConsoleProject.pdb
+/Users/mikail/back-end projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/MyConsoleProject.csproj.AssemblyReference.cache
+/Users/mikail/back-end projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/MyConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikail/back-end projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/MyConsoleProject.AssemblyInfoInputs.cache
+/Users/mikail/back-end projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/MyConsoleProject.AssemblyInfo.cs
+/Users/mikail/back-end projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/MyConsoleProject.csproj.CoreCompileInputs.cache
+/Users/mikail/back-end projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/MyConsoleProject.dll
+/Users/mikail/back-end projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/refint/MyConsoleProject.dll
+/Users/mikail/back-end projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/MyConsoleProject.pdb
+/Users/mikail/back-end projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/MyConsoleProject.genruntimeconfig.cache
+/Users/mikail/back-end projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/ref/MyConsoleProject.dll
