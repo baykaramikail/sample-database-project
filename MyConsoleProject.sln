@@ -1,26 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 25.0.1706.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{7933A859-BE67-4D9D-BE0E-10D8629E47A0}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1090F44F-D43D-496F-9A3D-92A18BCC2643}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{FDB82CEA-769B-40B0-A0AF-500C1F22109D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{FDB82CEA-769B-40B0-A0AF-500C1F22109D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{C219EE13-A578-482A-82DD-D5C01FDADB75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Business\Business.csproj", "{C219EE13-A578-482A-82DD-D5C01FDADB75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{EB59B7B6-5153-4F23-8729-B508AD20A1BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{EB59B7B6-5153-4F23-8729-B508AD20A1BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{2CABE2EC-0439-4224-9809-6B658817DE84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{2CABE2EC-0439-4224-9809-6B658817DE84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyConsoleProject", "MyConsoleProject\MyConsoleProject.csproj", "{51963A6F-DB2E-4E24-B7AC-E00F6DC519C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyConsoleProject", "MyConsoleProject\MyConsoleProject.csproj", "{51963A6F-DB2E-4E24-B7AC-E00F6DC519C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "Linq\LinqProject.csproj", "{F1698A3E-B9B7-4532-A095-09CE2C8A86FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqProject", "Linq\LinqProject.csproj", "{F1698A3E-B9B7-4532-A095-09CE2C8A86FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,10 +26,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7933A859-BE67-4D9D-BE0E-10D8629E47A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7933A859-BE67-4D9D-BE0E-10D8629E47A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7933A859-BE67-4D9D-BE0E-10D8629E47A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7933A859-BE67-4D9D-BE0E-10D8629E47A0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FDB82CEA-769B-40B0-A0AF-500C1F22109D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FDB82CEA-769B-40B0-A0AF-500C1F22109D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDB82CEA-769B-40B0-A0AF-500C1F22109D}.Release|Any CPU.ActiveCfg = Release|Any CPU

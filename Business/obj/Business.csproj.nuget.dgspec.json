@@ -1,37 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mikail/back-end projects/MyConsoleProject/Business/Business.csproj": {}
+    "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Business\\Business.csproj": {}
   },
   "projects": {
-    "/Users/mikail/back-end projects/MyConsoleProject/Business/Business.csproj": {
+    "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mikail/back-end projects/MyConsoleProject/Business/Business.csproj",
+        "projectUniqueName": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "/Users/mikail/back-end projects/MyConsoleProject/Business/Business.csproj",
-        "packagesPath": "/Users/mikail/.nuget/packages/",
-        "outputPath": "/Users/mikail/back-end projects/MyConsoleProject/Business/obj/",
+        "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\mikai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mikail/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mikai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/mikail/back-end projects/MyConsoleProject/DataAccess/DataAccess.csproj": {
-                "projectPath": "/Users/mikail/back-end projects/MyConsoleProject/DataAccess/DataAccess.csproj"
+              "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\DataAccess\\DataAccess.csproj"
               },
-              "/Users/mikail/back-end projects/MyConsoleProject/Entities/Entities.csproj": {
-                "projectPath": "/Users/mikail/back-end projects/MyConsoleProject/Entities/Entities.csproj"
+              "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Entities\\Entities.csproj"
               }
             }
           }
@@ -61,35 +62,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/mikail/back-end projects/MyConsoleProject/DataAccess/DataAccess.csproj": {
+    "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mikail/back-end projects/MyConsoleProject/DataAccess/DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "/Users/mikail/back-end projects/MyConsoleProject/DataAccess/DataAccess.csproj",
-        "packagesPath": "/Users/mikail/.nuget/packages/",
-        "outputPath": "/Users/mikail/back-end projects/MyConsoleProject/DataAccess/obj/",
+        "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\mikai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mikail/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mikai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/mikail/back-end projects/MyConsoleProject/Entities/Entities.csproj": {
-                "projectPath": "/Users/mikail/back-end projects/MyConsoleProject/Entities/Entities.csproj"
+              "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Entities\\Entities.csproj"
               }
             }
           }
@@ -119,27 +121,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/mikail/back-end projects/MyConsoleProject/Entities/Entities.csproj": {
+    "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mikail/back-end projects/MyConsoleProject/Entities/Entities.csproj",
+        "projectUniqueName": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "/Users/mikail/back-end projects/MyConsoleProject/Entities/Entities.csproj",
-        "packagesPath": "/Users/mikail/.nuget/packages/",
-        "outputPath": "/Users/mikail/back-end projects/MyConsoleProject/Entities/obj/",
+        "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\mikai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mikail/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mikai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -173,7 +176,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

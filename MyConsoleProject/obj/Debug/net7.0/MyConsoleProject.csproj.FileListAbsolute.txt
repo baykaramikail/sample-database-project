@@ -28,3 +28,18 @@
 /Users/mikail/back-end projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/MyConsoleProject.pdb
 /Users/mikail/back-end projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/MyConsoleProject.genruntimeconfig.cache
 /Users/mikail/back-end projects/MyConsoleProject/MyConsoleProject/obj/Debug/net7.0/ref/MyConsoleProject.dll
+C:\Users\mikai\udemy-project\MyConsoleProject\bin\Debug\net7.0\MyConsoleProject.exe
+C:\Users\mikai\udemy-project\MyConsoleProject\bin\Debug\net7.0\MyConsoleProject.deps.json
+C:\Users\mikai\udemy-project\MyConsoleProject\bin\Debug\net7.0\MyConsoleProject.runtimeconfig.json
+C:\Users\mikai\udemy-project\MyConsoleProject\bin\Debug\net7.0\MyConsoleProject.dll
+C:\Users\mikai\udemy-project\MyConsoleProject\bin\Debug\net7.0\MyConsoleProject.pdb
+C:\Users\mikai\udemy-project\MyConsoleProject\obj\Debug\net7.0\MyConsoleProject.csproj.AssemblyReference.cache
+C:\Users\mikai\udemy-project\MyConsoleProject\obj\Debug\net7.0\MyConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikai\udemy-project\MyConsoleProject\obj\Debug\net7.0\MyConsoleProject.AssemblyInfoInputs.cache
+C:\Users\mikai\udemy-project\MyConsoleProject\obj\Debug\net7.0\MyConsoleProject.AssemblyInfo.cs
+C:\Users\mikai\udemy-project\MyConsoleProject\obj\Debug\net7.0\MyConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\mikai\udemy-project\MyConsoleProject\obj\Debug\net7.0\MyConsoleProject.dll
+C:\Users\mikai\udemy-project\MyConsoleProject\obj\Debug\net7.0\refint\MyConsoleProject.dll
+C:\Users\mikai\udemy-project\MyConsoleProject\obj\Debug\net7.0\MyConsoleProject.pdb
+C:\Users\mikai\udemy-project\MyConsoleProject\obj\Debug\net7.0\MyConsoleProject.genruntimeconfig.cache
+C:\Users\mikai\udemy-project\MyConsoleProject\obj\Debug\net7.0\ref\MyConsoleProject.dll
