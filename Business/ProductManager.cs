@@ -1,11 +1,10 @@
 ﻿using System;
 using Entities;
-using DataAccess;
-
+using DataAccess.Interfaces;
 
 namespace Business
 {
-	public class ProductManager: IProductService
+    public class ProductManager: IProductService
 	{
 		IProductDal _productDal;
 
