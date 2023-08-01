@@ -7,10 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-<<<<<<<< HEAD:Business/obj/Release/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
 build_property.RootNamespace = Business
 build_property.ProjectDir = C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\Business\
-========
-build_property.RootNamespace = Arrays
-build_property.ProjectDir = C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\Arrays\
->>>>>>>> 61216130328418980e89d16bc332eb1f9cd905da:Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
