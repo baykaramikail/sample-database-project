@@ -13,3 +13,33 @@
 /Users/mikail/back-end projects/MyConsoleProject/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
 /Users/mikail/back-end projects/MyConsoleProject/DataAccess/obj/Debug/net7.0/DataAccess.pdb
 /Users/mikail/back-end projects/MyConsoleProject/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
+C:\Users\mikai\udemy-project\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\mikai\udemy-project\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\mikai\udemy-project\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\mikai\udemy-project\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\mikai\udemy-project\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\mikai\udemy-project\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\mikai\udemy-project\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikai\udemy-project\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\mikai\udemy-project\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\mikai\udemy-project\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mikai\udemy-project\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\mikai\udemy-project\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\mikai\udemy-project\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\mikai\udemy-project\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\mikai\udemy-project\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll

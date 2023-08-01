@@ -15,3 +15,37 @@
 /Users/mikail/back-end projects/MyConsoleProject/Business/obj/Debug/net7.0/refint/Business.dll
 /Users/mikail/back-end projects/MyConsoleProject/Business/obj/Debug/net7.0/Business.pdb
 /Users/mikail/back-end projects/MyConsoleProject/Business/obj/Debug/net7.0/ref/Business.dll
+C:\Users\mikai\udemy-project\Business\bin\Debug\net7.0\Business.deps.json
+C:\Users\mikai\udemy-project\Business\bin\Debug\net7.0\Business.dll
+C:\Users\mikai\udemy-project\Business\bin\Debug\net7.0\Business.pdb
+C:\Users\mikai\udemy-project\Business\bin\Debug\net7.0\DataAccess.dll
+C:\Users\mikai\udemy-project\Business\bin\Debug\net7.0\Entities.dll
+C:\Users\mikai\udemy-project\Business\bin\Debug\net7.0\Entities.pdb
+C:\Users\mikai\udemy-project\Business\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\mikai\udemy-project\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Users\mikai\udemy-project\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikai\udemy-project\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Users\mikai\udemy-project\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Users\mikai\udemy-project\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\mikai\udemy-project\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+C:\Users\mikai\udemy-project\Business\obj\Debug\net7.0\Business.dll
+C:\Users\mikai\udemy-project\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Users\mikai\udemy-project\Business\obj\Debug\net7.0\Business.pdb
+C:\Users\mikai\udemy-project\Business\obj\Debug\net7.0\ref\Business.dll
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\Business\bin\Debug\net7.0\Business.deps.json
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\Business\bin\Debug\net7.0\Business.dll
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\Business\bin\Debug\net7.0\Business.pdb
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\Business\bin\Debug\net7.0\DataAccess.dll
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\Business\bin\Debug\net7.0\Entities.dll
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\Business\bin\Debug\net7.0\Entities.pdb
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\Business\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\Business\obj\Debug\net7.0\Business.dll
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\Business\obj\Debug\net7.0\Business.pdb
+C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\Business\obj\Debug\net7.0\ref\Business.dll

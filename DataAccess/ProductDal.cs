@@ -1,4 +1,5 @@
-﻿using Entities;
+﻿using DataAccess.Interfaces;
+using Entities;
 
 
 namespace DataAccess

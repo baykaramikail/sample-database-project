@@ -24,7 +24,7 @@ namespace ConsoleUI
 
             try
             {
-                productManager.Add(new Product(12, "Laptop", "dört ayaklı masa", 345, 12));
+                productManager.Add(new Product(12, "Masa", "dört ayaklı masa", 345, 12));
             }
             catch (Exception ex)
             {

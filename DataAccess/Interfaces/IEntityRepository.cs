@@ -1,11 +1,11 @@
 ﻿using System;
 using Entities;
 
-namespace DataAccess
+namespace DataAccess.Interfaces
 {
     //public interface IEntityRepository<T> where T: class,IEntity, new()
-    public interface IEntityRepository<T> where T: IEntity
-	{
+    public interface IEntityRepository<T> where T : IEntity
+    {
         List<T> GetAll();
 
         T GetByID(int id);
