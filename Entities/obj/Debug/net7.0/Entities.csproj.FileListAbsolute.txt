@@ -25,7 +25,6 @@ C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\Entities\obj\Debug\
 C:\Users\mikai\OneDrive\Masaüstü\My Projects\sample-database-project\Entities\bin\Debug\net7.0\Entities.deps.json
 C:\Users\mikai\OneDrive\Masaüstü\My Projects\sample-database-project\Entities\bin\Debug\net7.0\Entities.dll
 C:\Users\mikai\OneDrive\Masaüstü\My Projects\sample-database-project\Entities\bin\Debug\net7.0\Entities.pdb
-C:\Users\mikai\OneDrive\Masaüstü\My Projects\sample-database-project\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
 C:\Users\mikai\OneDrive\Masaüstü\My Projects\sample-database-project\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\mikai\OneDrive\Masaüstü\My Projects\sample-database-project\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
 C:\Users\mikai\OneDrive\Masaüstü\My Projects\sample-database-project\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
