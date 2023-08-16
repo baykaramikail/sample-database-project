@@ -23,6 +23,12 @@ namespace DataAccess
 
         public void Add(Product product)
         {
+
+            if (product.ProductName == "Laptop")
+            {
+                throw new Exception($"Hali hazırda var olan bir ürünü ({product.ProductName}) ekleyemezsiniz");
+            }
+
             Console.WriteLine("ProductDal ile eklendi");
         }
 

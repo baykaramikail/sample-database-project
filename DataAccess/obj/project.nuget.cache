@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SfmuHsDFhdh2B7teuaPYjOZ18OWtCuaqZ1h9jwhogfKDaFKhdsfoxK3auLw8ta306y64r4RuJIn6c8SGAxCe4g==",
+  "dgSpecHash": "BQ4DsGnAzCb1kON8I8QfYbouhtgmRQRuRef6nyMzjaDySh44uGrBJ65zYFk8BbOjkeJVXHJDLxUm/kMI7not9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

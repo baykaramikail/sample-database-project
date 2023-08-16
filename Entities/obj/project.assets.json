@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\mikai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mikai\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

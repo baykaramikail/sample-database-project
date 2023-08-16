@@ -25,11 +25,6 @@ namespace Business
 
         public void Add(Product product)
         {
-			if(product.ProductName == "Laptop")
-			{
-				throw new DuplicateProductException("Hali hazırda var olan laptopu ekleyemezsiniz");
-			}
-
 			_productDal.Add(product);
         }
     }

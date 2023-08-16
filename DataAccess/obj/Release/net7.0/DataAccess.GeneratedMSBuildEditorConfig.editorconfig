@@ -7,10 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-<<<<<<<< HEAD:DataAccess/obj/Release/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
 build_property.RootNamespace = DataAccess
-build_property.ProjectDir = C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\DataAccess\
-========
-build_property.RootNamespace = MyConsoleProject
-build_property.ProjectDir = C:\Users\mikai\OneDrive\Masaüstü\My Projects\udemy-project\MyConsoleProject\
->>>>>>>> 61216130328418980e89d16bc332eb1f9cd905da:MyConsoleProject/obj/Debug/net7.0/MyConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+build_property.ProjectDir = C:\Users\mikai\OneDrive\Masaüstü\My Projects\sample-database-project\DataAccess\

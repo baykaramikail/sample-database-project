@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ConsoleUI"
+    "\\ConsoleUI",
+    "\\DataAccess",
+    "\\DataAccess\\Interfaces"
   ],
   "SelectedNode": "\\ConsoleUI\\Program.cs",
   "PreviewInSolutionExplorer": false

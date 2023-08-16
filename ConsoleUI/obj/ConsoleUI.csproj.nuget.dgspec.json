@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\ConsoleUI\\ConsoleUI.csproj": {}
+    "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\ConsoleUI\\ConsoleUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Business\\Business.csproj": {
+    "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\mikai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Business\\obj\\",
+        "outputPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mikai\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Entities\\Entities.csproj"
+              "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\Entities\\Entities.csproj"
               }
             }
           }
@@ -62,18 +62,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\ConsoleUI\\ConsoleUI.csproj": {
+    "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\ConsoleUI\\ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\ConsoleUI\\ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\ConsoleUI\\ConsoleUI.csproj",
+        "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\ConsoleUI\\ConsoleUI.csproj",
         "packagesPath": "C:\\Users\\mikai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\ConsoleUI\\obj\\",
+        "outputPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mikai\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Business\\Business.csproj"
+              "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\Business\\Business.csproj"
               }
             }
           }
@@ -121,18 +121,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\mikai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mikai\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -149,8 +149,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Entities\\Entities.csproj"
+              "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\Entities\\Entities.csproj"
               }
             }
           }
@@ -180,18 +180,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Entities\\Entities.csproj": {
+    "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\mikai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mikai\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -235,7 +235,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

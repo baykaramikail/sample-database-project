@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o8WAyCjgF5zvaJF7JRPuvWfCaHBoqPZqykvTdXLYPSzbsQ+pxadk8hOWJjTN9uWiZqp8okrqe5ENbh9uFNEE/A==",
+  "dgSpecHash": "W0uCBEuHSFkbvlsV56CwUEdHpPlK4pdVKnusi4osv5/OidWuo46MPmSfZsgxBYtziW0Bn03YA5z7PxuydfMNJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\udemy-project\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\mikai\\OneDrive\\Masaüstü\\My Projects\\sample-database-project\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
