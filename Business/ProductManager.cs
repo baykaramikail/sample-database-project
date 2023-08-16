@@ -17,15 +17,27 @@ namespace Business
 
 		public List<Product> GetAll()
 		{
-
-			// iş kodları yazılır. Eğer herşey yolundaysa return işlemi yapılır. Bu sınıfın varolma nedeni budur.
-
 			return _productDal.GetAll();
 		}
 
         public void Add(Product product)
         {
 			_productDal.Add(product);
+        }
+
+        public Product GetById(int id)
+        {
+            return _productDal.GetByID(id);
+        }
+
+        public void Delete(Product product)
+        {
+            _productDal.Delete(product);
+        }
+
+        public void Update(Product product)
+        {
+            _productDal.Update(product);
         }
     }
 }

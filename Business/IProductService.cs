@@ -7,7 +7,14 @@ namespace Business
 	{
         public List<Product> GetAll();
 
+        public Product GetById(int id);
+
         public void Add(Product product);
+
+        public void Delete(Product product);
+
+        public void Update(Product product);
+
     }
 }
 

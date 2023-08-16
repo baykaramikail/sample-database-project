@@ -7,49 +7,53 @@ namespace DataAccess
 
     public class ProductDal: IProductDal
     {
-        List<Product> _products;
-
-        public ProductDal()
-        {
-            _products = new List<Product>()
-            {
-                new Product(1, "asus bilgisayar", "16 gb ram", 655, 1),
-                new Product(1, "acer bilgisayar", "16 gb ram", 1200, 0),
-                new Product(1, "dell bilgisayar", "16 gb ram", 1500, 7),
-                new Product(1, "mac bilgisayar", "16 gb ram", 760, 3),
-                new Product(1, "monster bilgisayar", "16 gb ram", 2000, 2)
-            };
-        }
+        
 
         public void Add(Product product)
         {
 
-            if (product.ProductName == "Laptop")
+            using (NorthwindContext context = new NorthwindContext())
             {
-                throw new Exception($"Hali hazırda var olan bir ürünü ({product.ProductName}) ekleyemezsiniz");
-            }
+                context.Products.Add(product);
+                context.SaveChanges();
+            };
 
-            Console.WriteLine("ProductDal ile eklendi");
         }
 
         public void Delete(Product product)
         {
-            throw new NotImplementedException();
+            using (NorthwindContext context = new NorthwindContext())
+            {
+                context.Products.Remove(context.Products.SingleOrDefault(p => p.ProductID == product.ProductID));
+                context.SaveChanges();
+            };
         }
 
         public List<Product> GetAll()
         {
-            return _products;
+            using (NorthwindContext context = new NorthwindContext())
+            {
+                return context.Products.ToList();
+            };
+
         }
 
         public Product GetByID(int id)
         {
-            throw new NotImplementedException();
+            using (NorthwindContext context = new NorthwindContext())
+            {
+                return context.Products.FirstOrDefault(p => p.ProductID == id);
+            };
         }
 
         public void Update(Product product)
         {
-            throw new NotImplementedException();
+            using (NorthwindContext context = new NorthwindContext())
+            {
+                var productToBeUpdated = context.Products.FirstOrDefault(p => p.ProductID == product.ProductID);
+                productToBeUpdated = product;
+                context.SaveChanges();
+            };
         }
     }
 

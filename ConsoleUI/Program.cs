@@ -15,6 +15,14 @@ namespace ConsoleUI
 
             ProductManager productManager = new ProductManager(new ProductDal());
 
+            productManager.Add(new Product
+            {
+                ProductName = "Test",
+                QuantityPerUnit = "faldf",
+                UnitPrice = 234,
+                UnitsInStock = 45
+
+            });
 
             foreach (var item in productManager.GetAll())
             {
@@ -22,14 +30,7 @@ namespace ConsoleUI
             }
 
 
-            try
-            {
-                productManager.Add(new Product(12, "Laptop", "dört ayaklı masa", 345, 12));
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
+            
         }
     }
 }
